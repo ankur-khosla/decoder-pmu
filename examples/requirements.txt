@@ -1,0 +1,2 @@
+ab-race-translator>=1.0.0
+pytest>=8.4.0
